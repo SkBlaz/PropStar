@@ -1,0 +1,5 @@
+# example_sql	target_table	target_attribute (seperated with tab)
+mutagenesis_42.sql	drugs	active
+#mutagenesis_188.sql	drugs	active
+#cacn.sql	canc	class
+#trains.sql	trains	direction
