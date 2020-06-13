@@ -87,3 +87,11 @@ Current implementation works with sql dumps, as can be obtained directly from e.
 ## Baseline methods
 The other baselines are implemented as part of pyRDM package, found here:
 https://github.com/xflows/rdm
+
+## Looking for ideas on what to try?
+This study merely opened a way to many potentially interesting research directions. Some ideas:
+1. Explore how other KG embedding methods behave when embedding logic structures
+2. Is there potential for hyperbolic embeddings in such scenarios
+3. Scale up extraction of features even further via e.g., FPGrowth or similar
+4. Consider longer triplet paths, spanning multiple tables
+5. Include some form of supervised feature ranking directly into the feature construction process (e.g., L1-based prunning)
