@@ -12,7 +12,7 @@ import re
 
 from neural import * ## DRMs
 from learning import * ## starspace
-from vectorizers import * ## ConjskunctVectorizer
+from vectorizers import * ## ConjunctVectorizer
 
 import logging
 logging.basicConfig(format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
