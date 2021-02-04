@@ -27,13 +27,15 @@ url={https://doi.org/10.1007/s10994-020-05890-8}
 }
 
 ```
+## A note
+Many idea from this paper were re-implemented in a newly published book by the first author: https://github.com/vpodpecan/representation_learning/tree/master/Chapter6
 
 # Repo description
 The repo contains the code required to reproduce the experiments from the original paper. Note, however, that cluster-level infrastructure is needed to obtain enough repetitions, so use at own risk. Minimal working examples are provided next.
 
 ## Installation
 For full functionality, one needs:
-1. starspace binary (included in this repo, re-complile if necessary via https://github.com/facebookresearch/StarSpace)
+1. starspace binary (re-complile if necessary via https://github.com/facebookresearch/StarSpace)
 2. pip install -r requirements.txt
 3. query_predict binary (for efficient predictions)
 
