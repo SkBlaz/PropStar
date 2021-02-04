@@ -28,7 +28,7 @@ url={https://doi.org/10.1007/s10994-020-05890-8}
 
 ```
 ## A note
-Many idea from this paper were re-implemented in a newly published book by the first author: https://github.com/vpodpecan/representation_learning/tree/master/Chapter6
+Key ideas from this paper were re-implemented in a newly published book by the first author: https://github.com/vpodpecan/representation_learning/tree/master/Chapter6
 
 # Repo description
 The repo contains the code required to reproduce the experiments from the original paper. Note, however, that cluster-level infrastructure is needed to obtain enough repetitions, so use at own risk. Minimal working examples are provided next.
